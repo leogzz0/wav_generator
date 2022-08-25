@@ -14,8 +14,8 @@
   * [Questions](#questions)
   # Installation
   Python packages:
-  pip install numpy
-  pip install scipy
+  * pip install numpy
+  * pip install scipy
   # Usage
   Run in terminal.
   # License
