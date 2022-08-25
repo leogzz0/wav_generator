@@ -1,6 +1,6 @@
 # wav_generator
   https://github.com/leogzz0/wav_generator
-  ![alt text](https://github.com/leogzz0/wav_generator/blob/main/Menu.png)
+  ![alt text](2611222.png)
 
   # Description
   python program build with regex to valid user email.
