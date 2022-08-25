@@ -4,7 +4,7 @@
   ![alt text](2611222.png)
 
   # Description
-  python program build with regex to valid user email.
+  Python program to generate music in a wav file
   # Table of contents
   * [Installation](#installation)
   * [Usage](#usage)
